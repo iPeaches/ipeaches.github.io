@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
+  <Say>Thank you for calling YYZ co. Please leave a message.</Say>
   <Play loop="1">https://peach.dog/unable-to-accept-031-21.wav?force=yes</Play>
+  <Say>Thank you for calling YYZ co. Please leave a message.</Say>
   <Hangup />
 </Response>
